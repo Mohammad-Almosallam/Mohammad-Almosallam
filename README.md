@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [PreCup](https://github.com/Mohammad-Almosallam/React-PreCup)
 
-- 🌱 I’m currently learning **Next.js, Framer motion, Firebase, Redux...**
+- 🌱 I’m currently learning **Next.js, Framer motion...**
 
-- 💬 Ask me about **React, Node, MongoDB, ChakraUI, Ejs, TailwindCSS, more...**
+- 💬 Ask me about **React, TailwindCSS, ChakraUI, Firebase, MongodDB, Redux...**
 
 - 📫 How to reach me **moh.almusallam4@gmail.com**
 
